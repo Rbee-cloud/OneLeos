@@ -1,0 +1,29 @@
+Build a fully responsive, static single-page website for my consulting company, "LeoCytte," specializing in pharmaceutical business consulting and global market entry for injectable and critical care products.
+About the Company:
+Brand: LeoCytte, with lion/thematic visuals to express confidence, reach, and modern expertise.
+Core strengths: 25+ years global experience taking pharma products to international markets, specializing in India, Colombia, Brazil, Portugal, and Mexico.
+Values: Integrity, collaboration, innovation, global reach, and tailored solutions.
+Key services: Regulatory consultation, product market access, pharma commercialization strategy, and support for injectable critical care medicines.
+Style & Content Requirements:
+Use a modern, bold font like EXO or similar.
+Modern “2025” aesthetic — clean lines, lots of white space, large hero images, animated/statistics sections, and a visually engaging layout inspired by spinxdigital.com.
+Loads of images: Feature images of international markets, medicine, innovation, teamwork, and global connections. Use placeholders as needed.
+Sections:
+Hero Section: Strong branding, tagline (“Shaping pharma success, worldwide”), short introduction. Include a modern call-to-action button.
+About Us: Summarize 25 years’ industry expertise, global reach, and unique strengths (draw on inspiration from Adalvo, Stamm Friends, Owl Pharma, Triple Blue, but change the names/cases for original content).
+Services: Clear cards or sections describing regulatory consulting, market access support, commercial strategy, lifecycle management, and critical care focus. Include benefits of working with LeoCytte.
+Market Focus: Interactive or visually engaging section showcasing key markets (India, Colombia, Brazil, Portugal, Mexico) with facts or brief stories per region.
+Talent Showcase: Grid or carousel of team member photos (use diverse placeholder images), bios, and international credentials to show depth of talent.
+Global Impact: Infographics or animated stats on countries served, projects delivered, and positive impact.
+Testimonials/Client Success (original, not copied): Short, impactful quotes from fictional clients showing international reach.
+Contact Form: Allow visitors to send an inquiry (no backend needed, form should be visually appealing).
+Footer: Key links (About, Privacy, Contact), copyright, and small company story.
+Colors and Design: Use bold blues/whites/oranges for energy and clarity, gradients or overlays for visuals, and stylish section transitions (as seen on www.spinxdigital.com).
+Mobile friendly and SEO optimized.
+No copyright/brand conflicts.
+All code and assets should be organized and ready for free hosting on GitHub Pages.
+Output entire website as an index.html file, with embedded CSS and images as placeholder links (e.g., Unsplash).
+Additional notes:
+Avoid corporate clichés. Use rich, original language inspired by, but not copying, the reference sites.
+The tone should be confident, modern, and accessible to international pharma partners.
+Output should be ready-to-upload for a non-coder.
