@@ -32,10 +32,11 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v4
       
+     # Change this line in the "Upload artifact" step:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: dist/public
+          path: dist  # Changed from "dist/public"
 
   deploy:
     environment:
